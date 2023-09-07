@@ -16,3 +16,7 @@ p.pGreen, h2 {
 h2 {
     text-decoration: underline;
 }
+
+#pEspecial {
+    color: blueviolet;
+}
